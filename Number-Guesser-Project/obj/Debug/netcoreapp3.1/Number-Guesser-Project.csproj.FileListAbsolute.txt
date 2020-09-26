@@ -1,0 +1,12 @@
+/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/bin/Debug/netcoreapp3.1/Number-Guesser-Project.deps.json
+/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/bin/Debug/netcoreapp3.1/Number-Guesser-Project.runtimeconfig.json
+/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/bin/Debug/netcoreapp3.1/Number-Guesser-Project.runtimeconfig.dev.json
+/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/bin/Debug/netcoreapp3.1/Number-Guesser-Project.dll
+/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/bin/Debug/netcoreapp3.1/Number-Guesser-Project.pdb
+/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/obj/Debug/netcoreapp3.1/Number-Guesser-Project.csprojAssemblyReference.cache
+/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/obj/Debug/netcoreapp3.1/Number-Guesser-Project.AssemblyInfoInputs.cache
+/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/obj/Debug/netcoreapp3.1/Number-Guesser-Project.AssemblyInfo.cs
+/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/obj/Debug/netcoreapp3.1/Number-Guesser-Project.csproj.CoreCompileInputs.cache
+/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/obj/Debug/netcoreapp3.1/Number-Guesser-Project.dll
+/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/obj/Debug/netcoreapp3.1/Number-Guesser-Project.pdb
+/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/obj/Debug/netcoreapp3.1/Number-Guesser-Project.genruntimeconfig.cache
