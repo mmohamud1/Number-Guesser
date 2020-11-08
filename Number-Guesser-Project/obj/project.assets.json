@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/Number-Guesser-Project.csproj",
+      "projectUniqueName": "/Users/Mohamed/Documents/Number-Guesser/Number-Guesser-Project/Number-Guesser-Project.csproj",
       "projectName": "Number-Guesser-Project",
-      "projectPath": "/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/Number-Guesser-Project.csproj",
+      "projectPath": "/Users/Mohamed/Documents/Number-Guesser/Number-Guesser-Project/Number-Guesser-Project.csproj",
       "packagesPath": "/Users/Mohamed/.nuget/packages/",
-      "outputPath": "/Users/Mohamed/Documents/Number-Guesser-Project/Number-Guesser-Project/obj/",
+      "outputPath": "/Users/Mohamed/Documents/Number-Guesser/Number-Guesser-Project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Mohamed/.config/NuGet/NuGet.Config"

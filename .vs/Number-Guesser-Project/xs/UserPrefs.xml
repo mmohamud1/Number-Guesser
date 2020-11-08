@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{32CBEF96-CF94-4EB7-B7AD-4962408205AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Number-Guesser-Project/Program.cs">
+    <Files>
+      <File FileName="Number-Guesser-Project/Program.cs" Line="83" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Number-Guesser-Project" expanded="True">
+            <Node name="Number-Guesser-Project" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Number-Guesser-Project PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
